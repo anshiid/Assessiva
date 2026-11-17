@@ -1,0 +1,13 @@
+
+gradio
+pymupdf
+sentence-transformers
+torch
+transformers>=4.57.0
+accelerate
+opencv-python-headless
+pillow
+scikit-learn
+numpy
+reportlab
+pandas
